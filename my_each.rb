@@ -18,5 +18,5 @@ end
 
 
 my_each(collection) do |i|
-  puts 1
+  puts i
 end
