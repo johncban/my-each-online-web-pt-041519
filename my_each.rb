@@ -9,8 +9,3 @@ def my_each(collection) # put argument(s) here
     end
     collection
 end
-
-
-my_each(collection) do |i|
-  puts i
-end
