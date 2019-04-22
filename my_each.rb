@@ -15,3 +15,8 @@ def my_each(collection) # put argument(s) here
     puts "Hey! No block was given!"
   end
 end
+
+
+my_each(collection) do |i|
+  puts 1
+end
